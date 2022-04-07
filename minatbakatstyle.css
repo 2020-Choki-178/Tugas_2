@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+}
+h4{
+    background-color: blue;
+    color: darkred;
+    text-align: center;
+    font-size: 40px;
+    bottom: unset;
+}
+table{
+    size: 80px;
+    
+}
+tr{
+    color: black;
+
+}
+img{
+    padding: 20px;
+}

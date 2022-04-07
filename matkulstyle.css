@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+}
+h4{
+    background-color: blue;
+    text-align: center;
+    size: 100px;
+}
+
+table{
+    background-color: blue;
+    size: 70%;
+}
